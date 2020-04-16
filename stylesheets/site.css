@@ -1,4 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Lato|Poppins|Kaushan+Script");
+.aloli_a_color {
+  color: #f40086; }
+
+.aloli_lo_color {
+  color: #3eff08; }
+
+.aloli_li_color {
+  color: #1076fe; }
+
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
